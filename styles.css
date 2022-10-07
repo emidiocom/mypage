@@ -1,0 +1,20 @@
+body {
+    color: white;
+    background-color: black;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+img{
+    width: 130px;
+    height: 130px;
+    border-radius: 50%;
+    border: 5px solid white;
+}
+
+.center{
+    text-align: center;
+}
+
+.container{
+    padding: 10px 75px;
+}
