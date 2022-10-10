@@ -1,4 +1,4 @@
-body {
+body{
     color: white;
     background-color: black;
     font-family: 'Courier New', Courier, monospace;
@@ -16,5 +16,35 @@ img{
 }
 
 .container{
+    padding: 10px 75px;
+}
+
+#link{
+    width: 60px;
+    height: 60px;
+    border-radius: 0%;
+    border: 1px solid white;
+    text-align: center;
+    background-color: white;
+    
+    
+}
+
+#link2{
+    width: auto;
+    height: 25px;
+    border-radius: 0%;
+    border: 2px solid rgb(15, 15, 15);
+    padding: 5px 5px;
+    
+    
+}
+
+#link3{
+    width: auto;
+    height: 200px;
+    text-align: center;
+    border-radius: 0%;
+    border: 0px solid white;
     padding: 10px 75px;
 }
