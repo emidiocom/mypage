@@ -1,6 +1,13 @@
 body{
     color: white;
-    background-color: #030518;
+    /* background-color: #030518; */
+    /*background-image: url(https://images.freeimages.com/images/large-previews/01a/technology-background-1632715.jpg);*/
+    background-image: url(https://user-images.githubusercontent.com/78033319/195842014-f746a9a8-e9b2-4cee-a49d-3446cd4557a6.jpg);
+    background-size: cover;
+    background-clip: padding-box;
+    /*opacity: 0.5;*/
+    
+    
     font-family: 'Courier New', Courier, monospace;
     /* font-highlight: #F231A5; */
 }
@@ -24,16 +31,53 @@ img {
 
 .center {
     text-align: center;
+    font-family:'Open Sans', sans-serif;
 }
 
+.center2 {
+    /*background-position: 25% 75%
+    padding: 2rem 0;*/
+    text-align: center;
+    /*background-color: rgba(0, 0, 0, 0.5); 
+    color: hsla(0, 0%, 50%, 0.5)*/
+    background-color: rgba(0, 0, 0, 0.8); 
+        color: #fff;
+        border-radius: 16px;
+        display: block;
+        /*margin: auto 12%;*/
+        overflow: auto;
+        overflow-wrap: normal;
+        padding: 0.5em;
+        white-space: normal;
+        word-wrap: normal;
+        font-family: 'Open Sans', sans-serif;
+}
 .container {
-    padding: 10px 75px;
-    
+    /*background: #081b4b;*/
+    background-color: rgba(0, 0, 0, 0.7); 
+        color: #fff;
+        border-radius: 16px;
+        display: block;
+        margin: auto 12%;
+        overflow: auto;
+        overflow-wrap: normal;
+        padding: 5em;
+        white-space: normal;
+        word-wrap: normal;
+
+    /*padding: 10px 75px;*/
+   
+   
 }
 
 #container2 {
-    padding: 50px 150px;
-    color: #38444d;
+    /* padding: 50px 150px;
+    color: #38444d; */
+
+    
+        
+    
+  
 }
 
 #link {
@@ -50,7 +94,7 @@ img {
 #link2 {
     padding: 0px 0px;
     width: auto;
-    height: 35px;
+    height: 30px;
     border-radius: 0%;
     border: 1px groove #38444d;
    
